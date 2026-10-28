@@ -17,7 +17,7 @@
 
 Sou a **Thaís**, Analista de Dados Júnior, em Porto Alegre. Este é meu espaço para compartilhar aprendizado, projetos de dados e experiências web.
 
-Entre código, análise e criatividade, transformo ideias em projetos e registro minha evolução em tecnologia.
+Entre código, análise e criatividade, transformo ideias em projetos e registro minha evolução em tecnologia. ˖ ࣪⊹
 
 <a name="stack"></a>
 
