@@ -54,3 +54,4 @@ Entre código, análise e criatividade, transformo ideias em projetos e registro
   <strong>um projeto de cada vez, um pouco mais de mim em cada um.</strong><br>
   <a href="https://github.com/thais-sys?tab=repositories">explore meus repositórios ↗</a>
 </p>
+
